@@ -1,1 +1,1 @@
-Soluions to 0x02. ES6 classes tasks
+solutions to 0x00. ES6 Basics tasks
